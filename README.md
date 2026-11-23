@@ -1,6 +1,6 @@
 # House Price Predictor 🏠
 
-A machine learning web app that estimates a house's sale price from its size, rooms, age and overall quality.
+A machine learning web app that estimates a house's sale price from its size, rooms, age and overall quality. Developed with AI assistance.
 
 ## Dataset
 [Kaggle: House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) (Ames, Iowa housing data, 1,460 rows).
